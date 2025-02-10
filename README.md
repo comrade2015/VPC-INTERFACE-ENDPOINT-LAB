@@ -1,5 +1,5 @@
 # VPC INTERFACE ENDPOINT LAB
-This Repository is used to explain a an High-Availability VPC Architecture using (IaaC) Terraform.
+This Repository is used to explain VPC Interface Endpoint Lab using (IaaC) Terraform.
 
 An interface endpoint is a type of VPC endpoint that enables communication between instances in an Amazon VPC and services over AWS PrivateLink, allowing secure access to services without imposing availability risks or bandwidth constraints on network traffic.For each subnet that you specify from your VPC, we create an endpoint network interface in the subnet and assign it a private IP address from the subnet address range. An endpoint network interface is a requester-managed network interface.
 
